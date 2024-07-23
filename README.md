@@ -21,4 +21,5 @@ You can run this script manually or create a scheduled task to run it at a time 
 ## Requirements
 
 PowerShell
+
 Administrator permissions
