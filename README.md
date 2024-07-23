@@ -1,6 +1,6 @@
 # PowerShell Script to Automatically Update the Hosts File (Safely) for GenP
 
-I've created a PowerShell script to automatically update the Windows hosts file based on the hosts list provided by the [a-dove-is-dumb repository](https://github.com/ignaciocastro/a-dove-is-dumb).
+PowerShell script to automatically update the Windows hosts file based on the hosts list provided by the [a-dove-is-dumb repository](https://github.com/ignaciocastro/a-dove-is-dumb).
 
 This script has the following features:
 
@@ -20,4 +20,5 @@ You can run this script manually or create a scheduled task to run it at a time 
 
 ## Requirements
 
+PowerShell
 Administrator permissions
